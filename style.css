@@ -1,0 +1,16 @@
+.container{
+    text-align: center;
+    margin-top: 2%;
+}
+ #color-box{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(107, 190, 238);
+}
+#change-color-btn{
+    margin-top: 2%;
+    font-size: 200%;
+    font-weight: 300%;
+margin-left: 40%;
+color: rgb(71, 77, 77);
+}
